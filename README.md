@@ -1,7 +1,6 @@
 
 ## CUSTOMER CLUSTERING
-![Logo](https://www.ebizor.com/wp-content/uploads/2016/07/segmentacion-de-clientes-768x512.jpg)
-
+![Logo]((https://www.flaticon.com/free-icon/retention_17197532))
 
 
 ## This repository performs a Clustering of clients for a Supermarket that operates in the countries of the United States, Mexico and Canada, for the execution of a marketing strategy that optimizes and improves its sales.
