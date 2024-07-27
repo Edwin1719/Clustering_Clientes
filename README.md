@@ -1,6 +1,6 @@
 
 ## CUSTOMER CLUSTERING
-![Logo]((https://www.flaticon.com/free-icon/retention_17197532))
+![Logo](https://cdn-icons-png.flaticon.com/128/3505/3505311.png)
 
 
 ## This repository performs a Clustering of clients for a Supermarket that operates in the countries of the United States, Mexico and Canada, for the execution of a marketing strategy that optimizes and improves its sales.
